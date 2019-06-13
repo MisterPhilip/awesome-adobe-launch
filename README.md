@@ -18,6 +18,7 @@ the list.
 
 ## Contents
  * [Using Launch](#using-launch)
+   * [Migrating to Launch](#migrating-to-launch)
    * [Recommended Blogs](#recommended-blogs)
    * [Browser Extensions](#browser-extensions)
    * [Getting Help](#getting-help)
@@ -30,6 +31,13 @@ the list.
 
 ## Using Launch
 
+
+#### Migrating to Launch
+
+*A few resources on migrating to Launch*
+
+ * [DTM to Launch Assessment App](https://www.searchdiscovery.com/solutions/partners/adobe/adobe-launch/dtm-launch-assessment/) - Search Discovery's tool to evaluate the migration readiness of your DTM container.
+ * [Migrating from DTM to Launch](https://medium.com/launch-by-adobe/migrating-from-dtm-to-launch-57548251a86d) - Ben Robison from Adobe covers the migration process.
 
 #### Recommended Blogs
 
