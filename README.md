@@ -34,7 +34,7 @@ the list.
 
 #### Migrating to Launch
 
-*A few resources on migrating to Launch*
+*A few resources on migrating to Launch.*
 
  * [DTM to Launch Assessment App](https://www.searchdiscovery.com/solutions/partners/adobe/adobe-launch/dtm-launch-assessment/) - Search Discovery's tool to evaluate the migration readiness of your DTM container.
  * [Migrating from DTM to Launch](https://medium.com/launch-by-adobe/migrating-from-dtm-to-launch-57548251a86d) - Ben Robison from Adobe covers the migration process.
@@ -47,6 +47,7 @@ Launch, the links below are pointing to the most relevant category.*
  * [33 Sticks](https://33sticks.com/category/tms/) - 33Sticks, an analytics boutique, covers a wide variety of topics for Adobe Launch.
  * [Adobe Tech Blog](https://medium.com/adobetech/search?q=launch) - The official Adobe Launch blog with technical articles from the Adobe team.
  * [Analytics Demystified](https://analyticsdemystified.com/tag-management/) - Analytics Demystified, a consulting group, covers a wide variety of topics for Adobe Launch.
+ * [Datanalyst](https://www.datanalyst.info/category/web_analytics/adobe-launch/) - Julien Piccini's blog that focuses on the technical side of Adobe products, including examples on how to build Launch extensions.
  * [Digital Data Tactics](https://www.digitaldatatactics.com/index.php/category/dtm/launch/) - Jenn Kunz's blog has more technical-focused articles about Adobe Launch as well a variety of other analytics related topics.
  * [Evolytics](https://www.evolytics.com/blog/category/data-collection/) - Evolytics, a consulting group, has a variety of topics for Adobe Launch including extension development articles.
  * [Jimalytics](https://jimalytics.com/tag/adobe-launch/) - Jim Gordon's blog focuses on the technical aspects of the strategy and deployment of tag managers and analytics tools.
