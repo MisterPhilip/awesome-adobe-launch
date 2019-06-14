@@ -56,6 +56,12 @@ Launch, the links below are pointing to the most relevant category.*
  * [Web Analytics for Developers](https://webanalyticsfordevelopers.com/category/launch/) - Jan Exner's blog focuses on helping web developers implement Adobe Analytics, Launch, and more.
 
 
+#### Tutorials
+
+*Tutorials that cover various aspects of using Launch.*
+
+ * [Adobe Experience Cloud Core Services Tutorials](https://docs.adobe.com/content/help/en/core-services-learn/tutorials/overview.html) - A collection of how-to videos and tutorials to make you a power-user of Adobe Experience Cloud Core Services.
+
 #### Browser Extensions
 
 *Browser extensions that will make your life easier when deploying and troubleshooting Adobe Launch.*
