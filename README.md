@@ -111,11 +111,11 @@ Launch, the links below are pointing to the most relevant category.*
 
 *NPM Packages that will make your life easier when developing Launch extensions.*
 
- * [Extension Scaffolding]() - Quickly set up the initial extension files and folder structure.
- * [Extension Sandbox]() - Manually test your extensions locally.
- * [Extension Packager]() - Validate and package your extension.
- * [Extension Uploader]() - A helper package to upload your Launch extension to Adobe's servers.
- * [Extension Releaser]() - A helper package to release your Launch extension.
+ * [Extension Scaffolding](https://www.npmjs.com/package/@adobe/reactor-scaffold) - Quickly set up the initial extension files and folder structure.
+ * [Extension Sandbox](https://www.npmjs.com/package/@adobe/reactor-sandbox) - Manually test your extensions locally.
+ * [Extension Packager](https://www.npmjs.com/package/@adobe/reactor-packager) - Validate and package your extension.
+ * [Extension Uploader](https://www.npmjs.com/package/@adobe/reactor-uploader) - A helper package to upload your Launch extension to Adobe's servers.
+ * [Extension Releaser](https://www.npmjs.com/package/@adobe/reactor-releaser) - A helper package to release your Launch extension.
 
 ## API Development
 
