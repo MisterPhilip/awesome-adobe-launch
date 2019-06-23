@@ -123,7 +123,7 @@ Launch, the links below are pointing to the most relevant category.*
 
 ### SDKs
 
-*Here SDKs to help make developing with the API easier. Note that not all of these are supported by Adobe.*
+*Here are SDKs to help make developing with the API easier. Note that not all of these are supported by Adobe.*
 
  * [Python](https://github.com/pitchmuc/pylaunch)
 
