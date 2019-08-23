@@ -127,7 +127,7 @@ Launch, the links below are pointing to the most relevant category.*
 
 *Here are SDKs to help make developing with the API easier. Note that not all of these are supported by Adobe.*
 
- * [C#](https://github.com/chancity/Adobe-Launch-API-Client)
+ * [C#](https://github.com/chancity/Adobe-Reactor-Api-CSharp)
  * [JavaScript](https://github.com/adobe/reactor-sdk-javascript)
  * [Python](https://github.com/pitchmuc/pylaunch)
 
