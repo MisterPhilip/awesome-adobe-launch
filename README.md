@@ -36,7 +36,9 @@ the list.
 
 *A few resources on migrating to Launch.*
 
+ * [Common DTM to Launch Migration Issues](https://techdocs.searchdiscovery.com/adobe-solutions/dtm-to-launch-migration/most-common-issues) - Search Discovery's most commonly found issues when migrating to Launch.
  * [DTM to Launch Assessment App](https://www.searchdiscovery.com/solutions/partners/adobe/adobe-launch/dtm-launch-assessment/) - Search Discovery's tool to evaluate the migration readiness of your DTM container.
+ * [DTM to Launch Migration Series](https://33sticks.com/dtm-launch-migration-series-1-options-considerations/) - 33 Sticks DTM to Launch migration series.
  * [Migrating from DTM to Launch](https://medium.com/launch-by-adobe/migrating-from-dtm-to-launch-57548251a86d) - Ben Robison from Adobe covers the migration process.
 
 #### Recommended Blogs
