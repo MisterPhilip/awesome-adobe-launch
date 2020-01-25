@@ -19,14 +19,16 @@ the list.
 ## Contents
  * [Using Launch](#using-launch)
    * [Migrating to Launch](#migrating-to-launch)
+   * [Tutorials](#tutorials)
    * [Recommended Blogs](#recommended-blogs)
+   * [Tools / Useful Services](#tools--useful-services)
    * [Browser Extensions](#browser-extensions)
    * [Getting Help](#getting-help)
- * [Extension Development](#extension_development)
+ * [Extension Development](#extension-development)
    * [Building Extensions](#building-extensions)
    * [Example Extensions](#example-extensions)
    * [Extension Development Packages](#extension-development-packages)
- * [API Development](#api_development)
+ * [API Development](#api-development)
 
 
 ## Using Launch
@@ -34,12 +36,20 @@ the list.
 
 #### Migrating to Launch
 
-*A few resources on migrating to Launch.*
+*A few resources on migrating to Launch. Reminder that you have until [2020-07-14 to migrate](https://medium.com/launch-by-adobe/dtm-plans-for-a-sunset-3c6aab003a6f)!*
 
  * [Common DTM to Launch Migration Issues](https://techdocs.searchdiscovery.com/adobe-solutions/dtm-to-launch-migration/most-common-issues) - Search Discovery's most commonly found issues when migrating to Launch.
  * [DTM to Launch Assessment App](https://www.searchdiscovery.com/solutions/partners/adobe/adobe-launch/dtm-launch-assessment/) - Search Discovery's tool to evaluate the migration readiness of your DTM container.
  * [DTM to Launch Migration Series](https://33sticks.com/dtm-launch-migration-series-1-options-considerations/) - 33 Sticks DTM to Launch migration series.
  * [Migrating from DTM to Launch](https://medium.com/launch-by-adobe/migrating-from-dtm-to-launch-57548251a86d) - Ben Robison from Adobe covers the migration process.
+
+
+#### Tutorials
+
+*Tutorials that cover various aspects of using Launch.*
+
+ * [Adobe Experience Cloud Core Services Tutorials](https://docs.adobe.com/content/help/en/core-services-learn/tutorials/overview.html) - A collection of how-to videos and tutorials to make you a power-user of Adobe Experience Cloud Core Services.
+
 
 #### Recommended Blogs
 
@@ -58,11 +68,12 @@ Launch, the links below are pointing to the most relevant category.*
  * [Web Analytics for Developers](https://webanalyticsfordevelopers.com/category/launch/) - Jan Exner's blog focuses on helping web developers implement Adobe Analytics, Launch, and more.
 
 
-#### Tutorials
+#### Tools / Useful Services
 
-*Tutorials that cover various aspects of using Launch.*
+*Various services and tools that help you understand what is happening with Launch*
 
- * [Adobe Experience Cloud Core Services Tutorials](https://docs.adobe.com/content/help/en/core-services-learn/tutorials/overview.html) - A collection of how-to videos and tutorials to make you a power-user of Adobe Experience Cloud Core Services.
+ * [Launch Library Parser](https://launch-parser.com/) - A library parser that detects potential problems, allows you to search for specific code, and see visualizations from the library's dependencies. Built by Urs Boller.
+
 
 #### Browser Extensions
 
@@ -83,7 +94,6 @@ Launch, the links below are pointing to the most relevant category.*
    \- Debug Adobe DTM & Launch libraries on your site.
 
 
-
 #### Getting Help
 
 *There are several places to get help if you're stuck working with Adobe Launch.*
@@ -91,7 +101,6 @@ Launch, the links below are pointing to the most relevant category.*
  * [Adobe Launch Developers Slack](http://join.launchdevelopers.chat/) - A Slack workspace for developers working on Launch extensions and the Launch API.
  * [Adobe Launch Forums](https://forums.adobe.com/community/experience-cloud/platform/launch) - The official Adobe Launch community forums.
  * [#measure Slack](https://www.measure.chat/) - A Slack workspace for all aspects of marketing technologies, including a dedicated channel for Adobe Launch.
-
 
 
 ## Extension Development
