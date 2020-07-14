@@ -86,12 +86,14 @@ Launch, the links below are pointing to the most relevant category.*
    [![Chrome](./media/chrome_16x16.png)](https://chrome.google.com/webstore/detail/dataslayer/ikbablmmjldhamhcldjjigniffkkjgpo) 
    [![Firefox](./media/firefox_16x16.png)](https://addons.mozilla.org/en-US/firefox/addon/dataslayer-firefox/)
    \- Debug the rules that Adobe Launch triggers.
- * [Launch and DTM Switch](https://www.searchdiscovery.com/solutions/partners/adobe/adobe-launch/launch-dtm-switch/)
+ * [Launch and DTM Switch](https://www.searchdiscovery.com/how-we-help/technology/adobe-extensions/)
    [![Chrome](./media/chrome_16x16.png)](https://chrome.google.com/webstore/detail/adobe-dtm-switch/nlgdemkdapolikbjimjajpmonpbpmipk?hl=en)
    \- Allows environment selection and debug toggling for both Adobe DTM & Launch.
  * [Tagtician](https://tagtician.com/)
    [![Chrome](./media/chrome_16x16.png)](https://chrome.google.com/webstore/detail/tagtician-for-adobe-dtm/hiaoiehpkillodoeillmodjcadmfmcbg)
    \- Debug Adobe DTM & Launch libraries on your site.
+ * [TALES](https://chrome.google.com/webstore/detail/tagticians-adobe-launch-e/gcoendnefeheadmoidembdncjohflakd)
+   [![Chrome](./media/chrome_16x16.png)](https://chrome.google.com/webstore/detail/tagticians-adobe-launch-e/gcoendnefeheadmoidembdncjohflakd?hl=en) - Tagtician's Adobe Launch Enhancement Suite (TALES) updates the Adobe Launch UI, making it easier to navigate.
 
 
 #### Getting Help
