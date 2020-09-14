@@ -73,6 +73,8 @@ Launch, the links below are pointing to the most relevant category.*
 *Various services and tools that help you understand what is happening with Launch*
 
  * [Launch Library Parser](https://launch-parser.com/) - A library parser that detects potential problems, allows you to search for specific code, and see visualizations from the library's dependencies. Built by Urs Boller.
+ * [reactor-downloader](https://github.com/adobe/reactor-downloader) - A command line tool for downloading a Launch property to a local directory.
+ * [reactor-sync](https://github.com/adobe/reactor-sync) - A command line tool for syncing data to and from Adobe Launch to a local directory.
 
 
 #### Browser Extensions
