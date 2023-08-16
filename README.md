@@ -6,12 +6,11 @@
 		<img src="https://awesome.re/badge-flat.svg" alt="Awesome">
 	</a>
 	<br>
-	<sub>Follow me on <a href="https://twitter.com/_MisterPhilip">Twitter</a> for more Launch stuff!</sub>
 </div>
 
 # Awesome Adobe Launch
 
-A curated list of awesome resources for Adobe Launch. 
+A curated list of awesome resources for Adobe Experience Platform Tags (Formerly known as Adobe Launch). 
 
 Is this list missing something? I'd love to get your feedback! [Learn more](./CONTRIBUTING.md) about contributing to 
 the list.
@@ -63,7 +62,6 @@ Launch, the links below are pointing to the most relevant category.*
  * [Digital Data Tactics](https://www.digitaldatatactics.com/index.php/category/dtm/launch/) - Jenn Kunz's blog has more technical-focused articles about Adobe Launch as well a variety of other analytics related topics.
  * [Evolytics](https://www.evolytics.com/blog/category/data-collection/) - Evolytics, a consulting group, has a variety of topics for Adobe Launch including extension development articles.
  * [Jimalytics](https://jimalytics.com/tag/adobe-launch/) - Jim Gordon's blog focuses on the technical aspects of the strategy and deployment of tag managers and analytics tools.
- * [MisterPhilip](https://misterphilip.com/tag/adobe-launch/) - Philip Lawrence's blog focus primarily on the technical aspects of Adobe Launch.
  * [Search Discovery](https://www.searchdiscovery.com/?s=launch) - Search Discovery, a consulting group, has a wide variety of topics for Adobe Launch.
  * [Web Analytics for Developers](https://webanalyticsfordevelopers.com/category/launch/) - Jan Exner's blog focuses on helping web developers implement Adobe Analytics, Launch, and more.
 
@@ -112,7 +110,7 @@ Launch, the links below are pointing to the most relevant category.*
  
 #### Building Extensions
 
- * [Official Documentation](https://developer.adobelaunch.com/extensions/)
+ * [Official Documentation](https://experienceleague.adobe.com/docs/experience-platform/tags/extension-dev/overview.html)
  * [Extension Build Tutorial](https://www.youtube.com/watch?v=rxjtC9o4rl0) - Aaron Hardy walks through the entire extension development process in this video.
 
 
@@ -136,7 +134,7 @@ Launch, the links below are pointing to the most relevant category.*
 
 ## API Development
 
- * [Official Documentation](https://developer.adobelaunch.com/api/)
+ * [Official Documentation](https://experienceleague.adobe.com/docs/experience-platform/tags/api/overview.html?lang=en)
  * [Reactor Postman](https://github.com/adobe/reactor-postman) - A collection of examples for [Postman](https://www.getpostman.com/) with the Launch API
 
 ### SDKs
